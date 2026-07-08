@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/scikit--learn-1.4%2B-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/imbalanced--learn-SMOTE-9B59B6?style=flat-square" alt="imbalanced-learn">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
-  <img src="https://img.shields.io/badge/Status-Portfolio%20Project-blue?style=flat-square" alt="Status">
 </p>
 
 <p align="center">
